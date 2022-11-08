@@ -20,7 +20,7 @@
   {
     "full_name": "reactivando/template-react-typescript",
     "stargazers_count": 20,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 7
   },
   {
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 897,
-    "open_issues_count": 10,
-    "forks_count": 133
+    "stargazers_count": 899,
+    "open_issues_count": 11,
+    "forks_count": 134
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 2346,
+    "stargazers_count": 2351,
     "open_issues_count": 21,
-    "forks_count": 932
+    "forks_count": 938
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -98,7 +98,7 @@
   {
     "full_name": "robsonvleite/router",
     "stargazers_count": 163,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 34
   },
   {
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 25233,
-    "open_issues_count": 553,
-    "forks_count": 8644
+    "stargazers_count": 25256,
+    "open_issues_count": 555,
+    "forks_count": 8649
   },
   {
     "full_name": "litstack/litstack",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "BrasilAPI/BrasilAPI",
-    "stargazers_count": 5033,
-    "open_issues_count": 79,
-    "forks_count": 390
+    "stargazers_count": 5039,
+    "open_issues_count": 80,
+    "forks_count": 392
   },
   {
     "full_name": "steniowagner/expo-notifications-dashboard",
