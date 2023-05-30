@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "eng-assys/php-hotmart-sdk",
     "stargazers_count": 10,
     "open_issues_count": 0,
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "reactivando/use-pubsub-js",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1114,
-    "open_issues_count": 4,
-    "forks_count": 162
+    "stargazers_count": 1116,
+    "open_issues_count": 8,
+    "forks_count": 164
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 2770,
+    "stargazers_count": 2774,
     "open_issues_count": 30,
-    "forks_count": 1046
+    "forks_count": 1047
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "robsonvleite/router",
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 0,
     "forks_count": 37
   },
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 26516,
-    "open_issues_count": 565,
-    "forks_count": 9052
+    "stargazers_count": 26532,
+    "open_issues_count": 566,
+    "forks_count": 9059
   },
   {
     "full_name": "litstack/litstack",
     "stargazers_count": 832,
     "open_issues_count": 53,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "LuizPiresS/iTeacher_old",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "BrasilAPI/BrasilAPI",
-    "stargazers_count": 6061,
+    "stargazers_count": 6078,
     "open_issues_count": 93,
-    "forks_count": 451
+    "forks_count": 453
   },
   {
     "full_name": "steniowagner/expo-notifications-dashboard",
     "stargazers_count": 37,
     "open_issues_count": 22,
     "forks_count": 8
-  },
-  {
-    "full_name": "fluttership/homepage",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
