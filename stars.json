@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "icarojobs/dominando-api-mercado-livre",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "matheusbattisti/curso_angular_yt",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 1,
     "forks_count": 61
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1152,
-    "open_issues_count": 4,
-    "forks_count": 174
+    "stargazers_count": 1154,
+    "open_issues_count": 7,
+    "forks_count": 176
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 2799,
+    "stargazers_count": 2801,
     "open_issues_count": 30,
-    "forks_count": 1056
+    "forks_count": 1057
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 26709,
+    "stargazers_count": 26730,
     "open_issues_count": 576,
-    "forks_count": 9117
+    "forks_count": 9119
   },
   {
     "full_name": "litstack/litstack",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 2,
     "forks_count": 1
-  },
-  {
-    "full_name": "gabrielboliveira/tracking-correios",
-    "stargazers_count": 104,
-    "open_issues_count": 1,
-    "forks_count": 25
   }
 ]
