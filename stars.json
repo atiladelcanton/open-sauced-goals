@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "suissa/microfrontends-next-api",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 3100,
-    "open_issues_count": 27,
-    "forks_count": 51
+    "stargazers_count": 3103,
+    "open_issues_count": 25,
+    "forks_count": 52
   },
   {
     "full_name": "suissa/livro-guia-de-manga-estatistica",
@@ -21,13 +27,13 @@
     "full_name": "matheusbattisti/curso_angular_yt",
     "stargazers_count": 199,
     "open_issues_count": 2,
-    "forks_count": 90
+    "forks_count": 89
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 0,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1368,
+    "stargazers_count": 1372,
     "open_issues_count": 5,
     "forks_count": 203
   },
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3133,
+    "stargazers_count": 3136,
     "open_issues_count": 30,
     "forks_count": 1096
   },
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 28349,
-    "open_issues_count": 338,
-    "forks_count": 9036
+    "stargazers_count": 28362,
+    "open_issues_count": 319,
+    "forks_count": 9038
   },
   {
     "full_name": "litstack/litstack",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "richecr/CamaraDosDeputados",
-    "stargazers_count": 42,
-    "open_issues_count": 17,
-    "forks_count": 31
   }
 ]
