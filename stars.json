@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "CharrafiMed/global-search-modal",
+    "stargazers_count": 46,
+    "open_issues_count": 1,
+    "forks_count": 11
+  },
+  {
     "full_name": "suissa/microfrontends-next-api",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 3334,
-    "open_issues_count": 33,
-    "forks_count": 53
+    "stargazers_count": 3338,
+    "open_issues_count": 32,
+    "forks_count": 52
   },
   {
     "full_name": "suissa/livro-guia-de-manga-estatistica",
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "matheusbattisti/curso_angular_yt",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 2,
     "forks_count": 94
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 0,
-    "forks_count": 69
+    "forks_count": 68
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -73,8 +79,8 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1479,
-    "open_issues_count": 3,
+    "stargazers_count": 1481,
+    "open_issues_count": 7,
     "forks_count": 217
   },
   {
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3242,
+    "stargazers_count": 3244,
     "open_issues_count": 30,
     "forks_count": 1103
   },
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 28869,
-    "open_issues_count": 201,
-    "forks_count": 9070
+    "stargazers_count": 28880,
+    "open_issues_count": 200,
+    "forks_count": 9069
   },
   {
     "full_name": "litstack/litstack",
@@ -171,12 +177,6 @@
     "full_name": "LuizPiresS/iTeacher_old",
     "stargazers_count": 41,
     "open_issues_count": 4,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ddauriol/Jogo_da_Velha",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
     "forks_count": 0
   }
 ]
