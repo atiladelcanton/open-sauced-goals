@@ -1,9 +1,9 @@
 [
   {
     "full_name": "CharrafiMed/global-search-modal",
-    "stargazers_count": 63,
+    "stargazers_count": 67,
     "open_issues_count": 4,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "suissa/microfrontends-next-api",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 3397,
+    "stargazers_count": 3404,
     "open_issues_count": 34,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "suissa/livro-guia-de-manga-estatistica",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 202,
+    "stargazers_count": 203,
     "open_issues_count": 0,
     "forks_count": 72
   },
@@ -46,12 +46,6 @@
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 9
-  },
-  {
-    "full_name": "eng-assys/php-hotmart-sdk",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 2
   },
   {
     "full_name": "icarojobs/custom-sail",
@@ -80,7 +74,7 @@
   {
     "full_name": "Power-Components/livewire-powergrid",
     "stargazers_count": 1499,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 221
   },
   {
@@ -97,9 +91,9 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3263,
+    "stargazers_count": 3266,
     "open_issues_count": 30,
-    "forks_count": 1103
+    "forks_count": 1105
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -163,9 +157,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 28965,
-    "open_issues_count": 188,
-    "forks_count": 9068
+    "stargazers_count": 28979,
+    "open_issues_count": 185,
+    "forks_count": 9072
   },
   {
     "full_name": "litstack/litstack",
@@ -177,6 +171,12 @@
     "full_name": "LuizPiresS/iTeacher_old",
     "stargazers_count": 41,
     "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ddauriol/Jogo_da_Velha",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
     "forks_count": 0
   }
 ]
