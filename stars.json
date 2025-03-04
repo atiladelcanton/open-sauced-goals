@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "jeffersongoncalves/laravel-cookie-consent",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "CharrafiMed/global-search-modal",
-    "stargazers_count": 118,
+    "stargazers_count": 120,
     "open_issues_count": 2,
     "forks_count": 25
   },
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 3757,
+    "stargazers_count": 3760,
     "open_issues_count": 37,
-    "forks_count": 55
+    "forks_count": 54
   },
   {
     "full_name": "suissa/livro-guia-de-manga-estatistica",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "atiladelcanton/ZenTicket",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 12,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "beerandcodeteam/paymentgateway",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 29426,
-    "open_issues_count": 180,
-    "forks_count": 9110
+    "stargazers_count": 29441,
+    "open_issues_count": 186,
+    "forks_count": 9112
   },
   {
     "full_name": "litstack/litstack",
@@ -171,12 +177,6 @@
     "full_name": "LuizPiresS/iTeacher_old",
     "stargazers_count": 41,
     "open_issues_count": 4,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ddauriol/Jogo_da_Velha",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
     "forks_count": 0
   }
 ]
