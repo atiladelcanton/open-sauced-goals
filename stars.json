@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "gabrielrcosta1/laravel-schema",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "jeffersongoncalves/laravel-cookie-consent",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -8,7 +14,7 @@
   {
     "full_name": "CharrafiMed/global-search-modal",
     "stargazers_count": 132,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 27
   },
   {
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 3902,
+    "stargazers_count": 3904,
     "open_issues_count": 38,
     "forks_count": 54
   },
@@ -37,13 +43,13 @@
   },
   {
     "full_name": "matheusbattisti/curso_angular_yt",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 2,
     "forks_count": 96
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 273,
+    "stargazers_count": 274,
     "open_issues_count": 1,
     "forks_count": 82
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1595,
+    "stargazers_count": 1599,
     "open_issues_count": 0,
-    "forks_count": 225
+    "forks_count": 226
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3359,
+    "stargazers_count": 3361,
     "open_issues_count": 31,
     "forks_count": 1120
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 29812,
-    "open_issues_count": 177,
-    "forks_count": 9127
+    "stargazers_count": 29824,
+    "open_issues_count": 180,
+    "forks_count": 9131
   },
   {
     "full_name": "litstack/litstack",
     "stargazers_count": 864,
     "open_issues_count": 43,
     "forks_count": 82
-  },
-  {
-    "full_name": "LuizPiresS/iTeacher_old",
-    "stargazers_count": 41,
-    "open_issues_count": 4,
-    "forks_count": 0
   }
 ]
