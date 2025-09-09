@@ -1,8 +1,8 @@
 [
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 4960,
-    "open_issues_count": 17,
+    "stargazers_count": 4966,
+    "open_issues_count": 20,
     "forks_count": 39
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 3985,
+    "stargazers_count": 3988,
     "open_issues_count": 42,
     "forks_count": 55
   },
@@ -57,7 +57,7 @@
     "full_name": "Fernanda-Kipper/auth-api",
     "stargazers_count": 291,
     "open_issues_count": 1,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -92,7 +92,7 @@
   {
     "full_name": "Power-Components/livewire-powergrid",
     "stargazers_count": 1633,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 234
   },
   {
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3384,
+    "stargazers_count": 3386,
     "open_issues_count": 32,
-    "forks_count": 1125
+    "forks_count": 1126
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30156,
+    "stargazers_count": 30174,
     "open_issues_count": 153,
-    "forks_count": 9134
+    "forks_count": 9137
   }
 ]
