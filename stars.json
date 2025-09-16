@@ -1,7 +1,7 @@
 [
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 4974,
+    "stargazers_count": 4973,
     "open_issues_count": 19,
     "forks_count": 39
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 3993,
+    "stargazers_count": 3999,
     "open_issues_count": 43,
     "forks_count": 55
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1633,
+    "stargazers_count": 1635,
     "open_issues_count": 0,
     "forks_count": 234
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3388,
+    "stargazers_count": 3390,
     "open_issues_count": 32,
     "forks_count": 1126
   },
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "robsonvleite/router",
-    "stargazers_count": 181,
-    "open_issues_count": 7,
+    "stargazers_count": 182,
+    "open_issues_count": 8,
     "forks_count": 45
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30201,
-    "open_issues_count": 151,
+    "stargazers_count": 30228,
+    "open_issues_count": 157,
     "forks_count": 9137
   }
 ]
