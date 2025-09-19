@@ -1,7 +1,7 @@
 [
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 4973,
+    "stargazers_count": 4977,
     "open_issues_count": 19,
     "forks_count": 39
   },
@@ -12,14 +12,8 @@
     "forks_count": 0
   },
   {
-    "full_name": "jeffersongoncalves/laravel-cookie-consent",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
     "full_name": "CharrafiMed/global-search-modal",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 0,
     "forks_count": 30
   },
@@ -31,9 +25,9 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 3999,
-    "open_issues_count": 43,
-    "forks_count": 55
+    "stargazers_count": 4002,
+    "open_issues_count": 44,
+    "forks_count": 56
   },
   {
     "full_name": "suissa/livro-guia-de-manga-estatistica",
@@ -49,7 +43,7 @@
   },
   {
     "full_name": "matheusbattisti/curso_angular_yt",
-    "stargazers_count": 223,
+    "stargazers_count": 222,
     "open_issues_count": 2,
     "forks_count": 95
   },
@@ -57,7 +51,7 @@
     "full_name": "Fernanda-Kipper/auth-api",
     "stargazers_count": 291,
     "open_issues_count": 1,
-    "forks_count": 92
+    "forks_count": 94
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -74,7 +68,7 @@
   {
     "full_name": "reactivando/use-pubsub-js",
     "stargazers_count": 21,
-    "open_issues_count": 5,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -109,9 +103,9 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3390,
+    "stargazers_count": 3392,
     "open_issues_count": 32,
-    "forks_count": 1126
+    "forks_count": 1127
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -175,8 +169,14 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30228,
-    "open_issues_count": 157,
-    "forks_count": 9137
+    "stargazers_count": 30247,
+    "open_issues_count": 155,
+    "forks_count": 9142
+  },
+  {
+    "full_name": "litstack/litstack",
+    "stargazers_count": 865,
+    "open_issues_count": 43,
+    "forks_count": 81
   }
 ]
