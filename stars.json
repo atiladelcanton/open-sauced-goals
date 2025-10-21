@@ -1,8 +1,8 @@
 [
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5008,
-    "open_issues_count": 16,
+    "stargazers_count": 5009,
+    "open_issues_count": 15,
     "forks_count": 39
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4024,
+    "stargazers_count": 4025,
     "open_issues_count": 44,
     "forks_count": 56
   },
@@ -51,7 +51,7 @@
     "full_name": "Fernanda-Kipper/auth-api",
     "stargazers_count": 293,
     "open_issues_count": 1,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -68,7 +68,7 @@
   {
     "full_name": "reactivando/use-pubsub-js",
     "stargazers_count": 21,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
@@ -87,7 +87,7 @@
     "full_name": "Power-Components/livewire-powergrid",
     "stargazers_count": 1638,
     "open_issues_count": 0,
-    "forks_count": 236
+    "forks_count": 237
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "beerandcodeteam/paymentgateway",
-    "stargazers_count": 33,
+    "stargazers_count": 32,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30445,
+    "stargazers_count": 30467,
     "open_issues_count": 142,
-    "forks_count": 9160
+    "forks_count": 9163
   },
   {
     "full_name": "litstack/litstack",
