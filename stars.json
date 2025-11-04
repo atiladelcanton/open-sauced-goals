@@ -1,8 +1,8 @@
 [
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5012,
-    "open_issues_count": 15,
+    "stargazers_count": 5016,
+    "open_issues_count": 16,
     "forks_count": 39
   },
   {
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4030,
+    "stargazers_count": 4035,
     "open_issues_count": 44,
     "forks_count": 56
   },
   {
     "full_name": "suissa/livro-guia-de-manga-estatistica",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 297,
+    "stargazers_count": 298,
     "open_issues_count": 1,
     "forks_count": 97
   },
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1642,
-    "open_issues_count": 1,
+    "stargazers_count": 1646,
+    "open_issues_count": 2,
     "forks_count": 238
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3407,
+    "stargazers_count": 3408,
     "open_issues_count": 32,
-    "forks_count": 1128
+    "forks_count": 1127
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "gdebrauwer/laravel-hateoas",
-    "stargazers_count": 170,
+    "stargazers_count": 171,
     "open_issues_count": 3,
     "forks_count": 13
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30518,
-    "open_issues_count": 122,
-    "forks_count": 9168
+    "stargazers_count": 30533,
+    "open_issues_count": 119,
+    "forks_count": 9165
   },
   {
     "full_name": "litstack/litstack",
