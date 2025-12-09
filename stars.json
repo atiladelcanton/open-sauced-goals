@@ -1,8 +1,8 @@
 [
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5050,
-    "open_issues_count": 14,
+    "stargazers_count": 5051,
+    "open_issues_count": 13,
     "forks_count": 39
   },
   {
@@ -14,7 +14,7 @@
   {
     "full_name": "CharrafiMed/global-search-modal",
     "stargazers_count": 161,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 31
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4059,
+    "stargazers_count": 4061,
     "open_issues_count": 45,
     "forks_count": 57
   },
@@ -51,7 +51,7 @@
     "full_name": "Fernanda-Kipper/auth-api",
     "stargazers_count": 301,
     "open_issues_count": 1,
-    "forks_count": 97
+    "forks_count": 96
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1652,
-    "open_issues_count": 0,
+    "stargazers_count": 1653,
+    "open_issues_count": 1,
     "forks_count": 239
   },
   {
@@ -99,11 +99,11 @@
     "full_name": "origamid/natal-audio-api",
     "stargazers_count": 18,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3416,
+    "stargazers_count": 3417,
     "open_issues_count": 32,
     "forks_count": 1127
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30665,
-    "open_issues_count": 114,
-    "forks_count": 9165
+    "stargazers_count": 30688,
+    "open_issues_count": 116,
+    "forks_count": 9167
   },
   {
     "full_name": "litstack/litstack",
