@@ -1,8 +1,8 @@
 [
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5090,
-    "open_issues_count": 23,
+    "stargazers_count": 5093,
+    "open_issues_count": 22,
     "forks_count": 41
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4107,
+    "stargazers_count": 4110,
     "open_issues_count": 45,
     "forks_count": 57
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 1,
     "forks_count": 96
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1672,
-    "open_issues_count": 1,
-    "forks_count": 242
+    "stargazers_count": 1673,
+    "open_issues_count": 2,
+    "forks_count": 243
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3429,
+    "stargazers_count": 3428,
     "open_issues_count": 32,
     "forks_count": 1128
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30904,
-    "open_issues_count": 111,
-    "forks_count": 9172
+    "stargazers_count": 30914,
+    "open_issues_count": 115,
+    "forks_count": 9171
   },
   {
     "full_name": "litstack/litstack",
-    "stargazers_count": 864,
+    "stargazers_count": 863,
     "open_issues_count": 43,
     "forks_count": 81
   }
