@@ -1,14 +1,14 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5104,
-    "open_issues_count": 22,
+    "stargazers_count": 5107,
+    "open_issues_count": 23,
     "forks_count": 42
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "CharrafiMed/global-search-modal",
-    "stargazers_count": 168,
+    "stargazers_count": 169,
     "open_issues_count": 5,
     "forks_count": 35
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4129,
+    "stargazers_count": 4130,
     "open_issues_count": 45,
     "forks_count": 58
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "reactivando/use-pubsub-js",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30950,
-    "open_issues_count": 109,
-    "forks_count": 9162
+    "stargazers_count": 30960,
+    "open_issues_count": 112,
+    "forks_count": 9163
   }
 ]
