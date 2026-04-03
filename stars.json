@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5153,
+    "stargazers_count": 5157,
     "open_issues_count": 15,
     "forks_count": 43
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4145,
+    "stargazers_count": 4148,
     "open_issues_count": 45,
     "forks_count": 58
   },
@@ -111,7 +111,7 @@
     "full_name": "alexgurr/react-coding-challenges",
     "stargazers_count": 3430,
     "open_issues_count": 32,
-    "forks_count": 1126
+    "forks_count": 1125
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30975,
-    "open_issues_count": 114,
+    "stargazers_count": 30985,
+    "open_issues_count": 115,
     "forks_count": 9168
   }
 ]
