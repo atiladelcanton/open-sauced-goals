@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 70,
+    "stargazers_count": 72,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5180,
+    "stargazers_count": 5183,
     "open_issues_count": 17,
     "forks_count": 45
   },
@@ -20,7 +20,7 @@
   {
     "full_name": "CharrafiMed/global-search-modal",
     "stargazers_count": 170,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 35
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4167,
+    "stargazers_count": 4171,
     "open_issues_count": 45,
     "forks_count": 57
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 315,
+    "stargazers_count": 316,
     "open_issues_count": 1,
     "forks_count": 96
   },
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1682,
-    "open_issues_count": 0,
+    "stargazers_count": 1681,
+    "open_issues_count": 1,
     "forks_count": 244
   },
   {
@@ -153,7 +153,7 @@
     "full_name": "robsonvleite/router",
     "stargazers_count": 180,
     "open_issues_count": 8,
-    "forks_count": 45
+    "forks_count": 44
   },
   {
     "full_name": "atiladelcanton/ZenTicket",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30919,
-    "open_issues_count": 119,
+    "stargazers_count": 30905,
+    "open_issues_count": 112,
     "forks_count": 9161
   }
 ]
