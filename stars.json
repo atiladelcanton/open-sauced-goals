@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 74,
+    "stargazers_count": 76,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5187,
+    "stargazers_count": 5190,
     "open_issues_count": 19,
     "forks_count": 45
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4172,
+    "stargazers_count": 4177,
     "open_issues_count": 45,
     "forks_count": 57
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "matheusbattisti/curso_angular_yt",
-    "stargazers_count": 224,
+    "stargazers_count": 225,
     "open_issues_count": 2,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
     "stargazers_count": 315,
     "open_issues_count": 1,
-    "forks_count": 96
+    "forks_count": 95
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -92,7 +92,7 @@
   {
     "full_name": "Power-Components/livewire-powergrid",
     "stargazers_count": 1683,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 244
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30915,
-    "open_issues_count": 112,
-    "forks_count": 9163
+    "stargazers_count": 30924,
+    "open_issues_count": 117,
+    "forks_count": 9168
   }
 ]
