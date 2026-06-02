@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 80,
-    "open_issues_count": 1,
+    "stargazers_count": 82,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5194,
+    "stargazers_count": 5196,
     "open_issues_count": 21,
     "forks_count": 44
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4181,
+    "stargazers_count": 4179,
     "open_issues_count": 46,
     "forks_count": 57
   },
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "icarojobs/custom-sail",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "reactivando/use-pubsub-js",
     "stargazers_count": 22,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1685,
-    "open_issues_count": 1,
+    "stargazers_count": 1686,
+    "open_issues_count": 0,
     "forks_count": 243
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3431,
+    "stargazers_count": 3432,
     "open_issues_count": 32,
     "forks_count": 1118
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 30980,
-    "open_issues_count": 119,
-    "forks_count": 9173
+    "stargazers_count": 30997,
+    "open_issues_count": 120,
+    "forks_count": 9172
   }
 ]
