@@ -1,14 +1,14 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5198,
-    "open_issues_count": 20,
+    "stargazers_count": 5196,
+    "open_issues_count": 19,
     "forks_count": 44
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "CharrafiMed/global-search-modal",
-    "stargazers_count": 170,
+    "stargazers_count": 171,
     "open_issues_count": 6,
     "forks_count": 36
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4182,
-    "open_issues_count": 46,
-    "forks_count": 56
+    "stargazers_count": 4183,
+    "open_issues_count": 45,
+    "forks_count": 57
   },
   {
     "full_name": "suissa/livro-guia-de-manga-estatistica",
@@ -57,7 +57,7 @@
     "full_name": "Fernanda-Kipper/auth-api",
     "stargazers_count": 319,
     "open_issues_count": 1,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -93,7 +93,7 @@
     "full_name": "Power-Components/livewire-powergrid",
     "stargazers_count": 1687,
     "open_issues_count": 0,
-    "forks_count": 241
+    "forks_count": 242
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3434,
+    "stargazers_count": 3432,
     "open_issues_count": 32,
     "forks_count": 1116
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "gdebrauwer/laravel-hateoas",
-    "stargazers_count": 174,
+    "stargazers_count": 175,
     "open_issues_count": 4,
     "forks_count": 12
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 31017,
-    "open_issues_count": 111,
-    "forks_count": 9168
+    "stargazers_count": 31034,
+    "open_issues_count": 114,
+    "forks_count": 9169
   }
 ]
