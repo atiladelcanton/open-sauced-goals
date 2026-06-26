@@ -7,8 +7,8 @@
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5196,
-    "open_issues_count": 21,
+    "stargazers_count": 5194,
+    "open_issues_count": 22,
     "forks_count": 44
   },
   {
@@ -32,7 +32,7 @@
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
     "stargazers_count": 4189,
-    "open_issues_count": 45,
+    "open_issues_count": 46,
     "forks_count": 57
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 318,
+    "stargazers_count": 319,
     "open_issues_count": 1,
     "forks_count": 97
   },
@@ -74,7 +74,7 @@
   {
     "full_name": "reactivando/use-pubsub-js",
     "stargazers_count": 22,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1687,
+    "stargazers_count": 1686,
     "open_issues_count": 0,
     "forks_count": 242
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 31045,
-    "open_issues_count": 115,
-    "forks_count": 9166
+    "stargazers_count": 31058,
+    "open_issues_count": 116,
+    "forks_count": 9167
   }
 ]
