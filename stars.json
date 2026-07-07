@@ -1,8 +1,8 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 105,
-    "open_issues_count": 1,
+    "stargazers_count": 116,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4189,
+    "stargazers_count": 4192,
     "open_issues_count": 46,
     "forks_count": 57
   },
@@ -51,7 +51,7 @@
     "full_name": "matheusbattisti/curso_angular_yt",
     "stargazers_count": 224,
     "open_issues_count": 2,
-    "forks_count": 96
+    "forks_count": 95
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 31073,
-    "open_issues_count": 120,
-    "forks_count": 9165
+    "stargazers_count": 31080,
+    "open_issues_count": 125,
+    "forks_count": 9164
   }
 ]
