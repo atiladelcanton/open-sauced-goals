@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 145,
-    "open_issues_count": 6,
+    "stargazers_count": 148,
+    "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5206,
+    "stargazers_count": 5208,
     "open_issues_count": 22,
     "forks_count": 44
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4202,
+    "stargazers_count": 4203,
     "open_issues_count": 46,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "suissa/livro-guia-de-manga-estatistica",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 31121,
+    "stargazers_count": 31131,
     "open_issues_count": 121,
-    "forks_count": 9162
+    "forks_count": 9160
   }
 ]
