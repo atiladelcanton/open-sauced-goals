@@ -1,14 +1,14 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 150,
+    "stargazers_count": 154,
     "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5210,
-    "open_issues_count": 22,
+    "stargazers_count": 5208,
+    "open_issues_count": 21,
     "forks_count": 43
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4202,
+    "stargazers_count": 4203,
     "open_issues_count": 46,
     "forks_count": 59
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1684,
+    "stargazers_count": 1685,
     "open_issues_count": 0,
-    "forks_count": 241
+    "forks_count": 242
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 31133,
-    "open_issues_count": 121,
+    "stargazers_count": 31144,
+    "open_issues_count": 119,
     "forks_count": 9161
   }
 ]
