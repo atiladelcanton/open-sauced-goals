@@ -1,14 +1,14 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 222,
-    "open_issues_count": 10,
+    "stargazers_count": 221,
+    "open_issues_count": 11,
     "forks_count": 7
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5242,
-    "open_issues_count": 12,
+    "stargazers_count": 5251,
+    "open_issues_count": 11,
     "forks_count": 43
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "CharrafiMed/global-search-modal",
-    "stargazers_count": 173,
+    "stargazers_count": 171,
     "open_issues_count": 5,
     "forks_count": 38
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
-    "stargazers_count": 323,
+    "stargazers_count": 322,
     "open_issues_count": 1,
     "forks_count": 100
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1694,
+    "stargazers_count": 1695,
     "open_issues_count": 0,
-    "forks_count": 242
+    "forks_count": 243
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
@@ -153,7 +153,7 @@
     "full_name": "robsonvleite/router",
     "stargazers_count": 180,
     "open_issues_count": 8,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "atiladelcanton/ZenTicket",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 31283,
-    "open_issues_count": 83,
-    "forks_count": 9147
+    "stargazers_count": 31287,
+    "open_issues_count": 86,
+    "forks_count": 9148
   }
 ]
