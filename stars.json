@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Th3-Anime/Th3-Anime",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 11,
     "forks_count": 7
   },
   {
     "full_name": "shufo/vscode-blade-formatter",
-    "stargazers_count": 5252,
+    "stargazers_count": 5261,
     "open_issues_count": 10,
     "forks_count": 43
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "amir9480/vscode-laravel-extra-intellisense",
-    "stargazers_count": 4223,
+    "stargazers_count": 4227,
     "open_issues_count": 46,
     "forks_count": 59
   },
@@ -51,13 +51,13 @@
     "full_name": "matheusbattisti/curso_angular_yt",
     "stargazers_count": 223,
     "open_issues_count": 2,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "Fernanda-Kipper/auth-api",
     "stargazers_count": 323,
     "open_issues_count": 1,
-    "forks_count": 100
+    "forks_count": 99
   },
   {
     "full_name": "CViniciusSDias/curso-arquitetura-e-escalabilidade",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "Power-Components/livewire-powergrid",
-    "stargazers_count": 1695,
-    "open_issues_count": 1,
-    "forks_count": 243
+    "stargazers_count": 1696,
+    "open_issues_count": 2,
+    "forks_count": 244
   },
   {
     "full_name": "gadfly361/flutter_test_cookbook",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "alexgurr/react-coding-challenges",
-    "stargazers_count": 3426,
-    "open_issues_count": 31,
-    "forks_count": 1111
+    "stargazers_count": 3424,
+    "open_issues_count": 0,
+    "forks_count": 1110
   },
   {
     "full_name": "fabiomazucato/react-native-skeleton",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "OAI/OpenAPI-Specification",
-    "stargazers_count": 31293,
-    "open_issues_count": 85,
-    "forks_count": 9145
+    "stargazers_count": 31301,
+    "open_issues_count": 79,
+    "forks_count": 9144
   }
 ]
